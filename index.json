@@ -1,39 +1,17 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-03-20T04:53:19.396Z",
+  "generated_at": "2026-03-20T07:41:18.649Z",
   "total_videos": 88,
   "videos": [
     {
-      "title": "Modern Growth Stack 2025",
-      "filename": "videos/modern-growth-stack-2025.md",
-      "word_count": 0,
-      "date": null,
-      "duration_seconds": 84,
-      "language": "ko",
-      "youtube_id": "kBG0fxtEj1c",
-      "youtube_url": "https://www.youtube.com/watch?v=kBG0fxtEj1c",
-      "description": "2025년 마케팅 시장의 변화, 여러분은 잘 대응하고 계신가요? "
-    },
-    {
       "title": "[MGS25] Connected Media: How to Scale Paid Ads in 2025 | NewForm",
       "filename": "videos/mgs25-connected-media-how-to-scale-paid-ads-in-2025-newform.md",
-      "word_count": 0,
+      "word_count": 4248,
       "date": null,
       "duration_seconds": 1500,
-      "language": "ko",
+      "language": "en",
       "youtube_id": "zh_33VaxZJ8",
       "youtube_url": "https://www.youtube.com/watch?v=zh_33VaxZJ8",
-      "description": "2025년 마케팅 시장의 변화. 여러분은 잘 대응하고 있나요? 데이터로 리드하고, AI로 승리하는 시대, 미래가 우리 앞으로 다가오고 있어요. 경계를..."
-    },
-    {
-      "title": "[MGS25] 광고 말고, 성장을 사고 싶다 | Airbridge, 이스트에이드, 스테이션3",
-      "filename": "videos/mgs25-광고-말고-성장을-사고-싶다-airbridge-이스트에이드-스테이션3.md",
-      "word_count": 3583,
-      "date": null,
-      "duration_seconds": 1528,
-      "language": "ko",
-      "youtube_id": "xRrsHJhXVrg",
-      "youtube_url": "https://www.youtube.com/watch?v=xRrsHJhXVrg",
       "description": "2025년 마케팅 시장의 변화. 여러분은 잘 대응하고 있나요? 데이터로 리드하고, AI로 승리하는 시대, 미래가 우리 앞으로 다가오고 있어요. 경계를..."
     },
     {
@@ -61,10 +39,10 @@
     {
       "title": "[MGS25] Live AI Insights: Mine Reviews and Beat Rivals | RevenueCat",
       "filename": "videos/mgs25-live-ai-insights-mine-reviews-and-beat-rivals-revenuecat.md",
-      "word_count": 0,
+      "word_count": 2809,
       "date": null,
       "duration_seconds": 1237,
-      "language": "ko",
+      "language": "en",
       "youtube_id": "wf1jt31W3gs",
       "youtube_url": "https://www.youtube.com/watch?v=wf1jt31W3gs",
       "description": "2025년 마케팅 시장의 변화. 여러분은 잘 대응하고 있나요? 데이터로 리드하고, AI로 승리하는 시대, 미래가 우리 앞으로 다가오고 있어요. 경계를..."
@@ -213,15 +191,15 @@
       "description": "2025년 마케팅 시장의 변화. 여러분은 잘 대응하고 있나요? 데이터로 리드하고, AI로 승리하는 시대, 미래가 우리 앞으로 다가오고 있어요. 경계를..."
     },
     {
-      "title": "[MGS25] 마케팅, 제품, 라이브옵스, 그리고 AI로 풀어내는 오늘날 게임의 성공 방정식",
-      "filename": "videos/mgs25-마케팅-제품-라이브옵스-그리고-ai로-풀어내는-오늘날-게임의-성공-방정식.md",
-      "word_count": 2779,
+      "title": "Modern Growth Stack 2025",
+      "filename": "videos/modern-growth-stack-2025.md",
+      "word_count": 10,
       "date": null,
-      "duration_seconds": 1545,
-      "language": "ko",
-      "youtube_id": "aFMe9BJfRUE",
-      "youtube_url": "https://www.youtube.com/watch?v=aFMe9BJfRUE",
-      "description": "2025년 마케팅 시장의 변화. 여러분은 잘 대응하고 있나요? 데이터로 리드하고, AI로 승리하는 시대, 미래가 우리 앞으로 다가오고 있어요. 경계를..."
+      "duration_seconds": 84,
+      "language": "en",
+      "youtube_id": "kBG0fxtEj1c",
+      "youtube_url": "https://www.youtube.com/watch?v=kBG0fxtEj1c",
+      "description": "2025년 마케팅 시장의 변화, 여러분은 잘 대응하고 계신가요? "
     },
     {
       "title": "[MGS25] AI가 놓친 사람의 마음, 토스 데이터가 읽는다 | 토스",
@@ -303,10 +281,10 @@
     {
       "title": "[MGS25] 성장을 바라보는 관점을 바꾸는 5가지 인사이트 | Activision",
       "filename": "videos/mgs25-성장을-바라보는-관점을-바꾸는-5가지-인사이트-activision.md",
-      "word_count": 0,
+      "word_count": 4099,
       "date": null,
       "duration_seconds": 1445,
-      "language": "ko",
+      "language": "en",
       "youtube_id": "D2QzJur6aQQ",
       "youtube_url": "https://www.youtube.com/watch?v=D2QzJur6aQQ",
       "description": "2025년 마케팅 시장의 변화. 여러분은 잘 대응하고 있나요? 데이터로 리드하고, AI로 승리하는 시대, 미래가 우리 앞으로 다가오고 있어요. 경계를..."
@@ -314,10 +292,10 @@
     {
       "title": "[MGS25] AI Powered Customer Engagement | Braze",
       "filename": "videos/mgs25-ai-powered-customer-engagement-braze.md",
-      "word_count": 0,
+      "word_count": 4827,
       "date": null,
       "duration_seconds": 1826,
-      "language": "ko",
+      "language": "en",
       "youtube_id": "-zbc1qf_458",
       "youtube_url": "https://www.youtube.com/watch?v=-zbc1qf_458",
       "description": "2025년 마케팅 시장의 변화. 여러분은 잘 대응하고 있나요? 데이터로 리드하고, AI로 승리하는 시대, 미래가 우리 앞으로 다가오고 있어요. 경계를..."
@@ -325,10 +303,10 @@
     {
       "title": "[MGS25] 글로벌 엔터테인먼트 & 게임 회사가 데이터 드리븐하게 성장하는 방법 | Entain",
       "filename": "videos/mgs25-글로벌-엔터테인먼트-게임-회사가-데이터-드리븐하게-성장하는-방법-entain.md",
-      "word_count": 0,
+      "word_count": 3751,
       "date": null,
       "duration_seconds": 1266,
-      "language": "ko",
+      "language": "en",
       "youtube_id": "Oh5QLFejsc4",
       "youtube_url": "https://www.youtube.com/watch?v=Oh5QLFejsc4",
       "description": "2025년 마케팅 시장의 변화. 여러분은 잘 대응하고 있나요? 데이터로 리드하고, AI로 승리하는 시대, 미래가 우리 앞으로 다가오고 있어요. 경계를..."
@@ -358,10 +336,10 @@
     {
       "title": "[MGS25] Smarter Growth: AI for Mobile Games & Apps | Phiture",
       "filename": "videos/mgs25-smarter-growth-ai-for-mobile-games-apps-phiture.md",
-      "word_count": 0,
+      "word_count": 4417,
       "date": null,
       "duration_seconds": 1530,
-      "language": "ko",
+      "language": "en",
       "youtube_id": "FKF6CkY-uXY",
       "youtube_url": "https://www.youtube.com/watch?v=FKF6CkY-uXY",
       "description": "2025년 마케팅 시장의 변화. 여러분은 잘 대응하고 있나요? 데이터로 리드하고, AI로 승리하는 시대, 미래가 우리 앞으로 다가오고 있어요. 경계를..."
@@ -411,15 +389,15 @@
       "description": "유저의 앱 경험에 있어서 가장 중요한 딥링크. 🔗"
     },
     {
-      "title": "2024’s Breakthrough Trends & Strategies for Customer Engagement",
-      "filename": "videos/2024s-breakthrough-trends-strategies-for-customer-engagement.md",
-      "word_count": 3190,
+      "title": "[MGS25] 마케팅, 제품, 라이브옵스, 그리고 AI로 풀어내는 오늘날 게임의 성공 방정식",
+      "filename": "videos/mgs25-마케팅-제품-라이브옵스-그리고-ai로-풀어내는-오늘날-게임의-성공-방정식.md",
+      "word_count": 4313,
       "date": null,
-      "duration_seconds": 1789,
-      "language": "ko",
-      "youtube_id": "UlsZAuGB25Y",
-      "youtube_url": "https://www.youtube.com/watch?v=UlsZAuGB25Y",
-      "description": "폭발적인 기술의 발전과 더 치열해지는 경쟁, 진정한 성장은 어디에 있을까요? 급속도로 변화하는 시장에서 성장의 로켓이 되어줄 그로스 스택을..."
+      "duration_seconds": 1545,
+      "language": "en",
+      "youtube_id": "aFMe9BJfRUE",
+      "youtube_url": "https://www.youtube.com/watch?v=aFMe9BJfRUE",
+      "description": "2025년 마케팅 시장의 변화. 여러분은 잘 대응하고 있나요? 데이터로 리드하고, AI로 승리하는 시대, 미래가 우리 앞으로 다가오고 있어요. 경계를..."
     },
     {
       "title": "퍼블리셔로 시작한 모바일 게임 개발사의 개발 전략",
@@ -490,10 +468,10 @@
     {
       "title": "Shaping Android’s Privacy Sandbox",
       "filename": "videos/shaping-androids-privacy-sandbox.md",
-      "word_count": 0,
+      "word_count": 4192,
       "date": null,
       "duration_seconds": 1341,
-      "language": "ko",
+      "language": "en",
       "youtube_id": "_6SCWnVPSsk",
       "youtube_url": "https://www.youtube.com/watch?v=_6SCWnVPSsk",
       "description": "폭발적인 기술의 발전과 더 치열해지는 경쟁, 진정한 성장은 어디에 있을까요? 급속도로 변화하는 시장에서 성장의 로켓이 되어줄 그로스 스택을..."
@@ -501,10 +479,10 @@
     {
       "title": "Driving Growth with Amplitude",
       "filename": "videos/driving-growth-with-amplitude.md",
-      "word_count": 0,
+      "word_count": 2260,
       "date": null,
       "duration_seconds": 1156,
-      "language": "ko",
+      "language": "en",
       "youtube_id": "R3gsAr8ldi4",
       "youtube_url": "https://www.youtube.com/watch?v=R3gsAr8ldi4",
       "description": "폭발적인 기술의 발전과 더 치열해지는 경쟁, 진정한 성장은 어디에 있을까요? 급속도로 변화하는 시장에서 성장의 로켓이 되어줄 그로스 스택을..."
@@ -512,23 +490,12 @@
     {
       "title": "Future-forward Technologies: 미래지향적 기술들",
       "filename": "videos/future-forward-technologies-미래지향적-기술들.md",
-      "word_count": 0,
+      "word_count": 2208,
       "date": null,
       "duration_seconds": 750,
-      "language": "ko",
+      "language": "en",
       "youtube_id": "fKxYbaXHGvg",
       "youtube_url": "https://www.youtube.com/watch?v=fKxYbaXHGvg",
-      "description": "폭발적인 기술의 발전과 더 치열해지는 경쟁, 진정한 성장은 어디에 있을까요? 급속도로 변화하는 시장에서 성장의 로켓이 되어줄 그로스 스택을..."
-    },
-    {
-      "title": "전체론적 마케팅의 부상: Everything Matters / 운영을 넘어 통합 마케팅 전략으로 고객 성공을 이끌다",
-      "filename": "videos/전체론적-마케팅의-부상-everything-matters-운영을-넘어-통합-마케팅-전략으로-고객-성공을-이끌다.md",
-      "word_count": 2947,
-      "date": null,
-      "duration_seconds": 1280,
-      "language": "ko",
-      "youtube_id": "TDhOkF091cQ",
-      "youtube_url": "https://www.youtube.com/watch?v=TDhOkF091cQ",
       "description": "폭발적인 기술의 발전과 더 치열해지는 경쟁, 진정한 성장은 어디에 있을까요? 급속도로 변화하는 시장에서 성장의 로켓이 되어줄 그로스 스택을..."
     },
     {
@@ -631,23 +598,23 @@
       "description": "폭발적인 기술의 발전과 더 치열해지는 경쟁, 진정한 성장은 어디에 있을까요? 급속도로 변화하는 시장에서 성장의 로켓이 되어줄 그로스 스택을..."
     },
     {
-      "title": "버거킹도 Amplitude를 쓴다고? 어떻게 쓰는데?",
-      "filename": "videos/버거킹도-amplitude를-쓴다고-어떻게-쓰는데.md",
-      "word_count": 2965,
+      "title": "2024’s Breakthrough Trends & Strategies for Customer Engagement",
+      "filename": "videos/2024s-breakthrough-trends-strategies-for-customer-engagement.md",
+      "word_count": 3190,
       "date": null,
-      "duration_seconds": 1528,
+      "duration_seconds": 1789,
       "language": "ko",
-      "youtube_id": "XA-UpCedCcQ",
-      "youtube_url": "https://www.youtube.com/watch?v=XA-UpCedCcQ",
+      "youtube_id": "UlsZAuGB25Y",
+      "youtube_url": "https://www.youtube.com/watch?v=UlsZAuGB25Y",
       "description": "폭발적인 기술의 발전과 더 치열해지는 경쟁, 진정한 성장은 어디에 있을까요? 급속도로 변화하는 시장에서 성장의 로켓이 되어줄 그로스 스택을..."
     },
     {
       "title": "딜라이트룸과의 파이어사이드 챗: 모바일 수익화 성과를 높이는 방법",
       "filename": "videos/딜라이트룸과의-파이어사이드-챗-모바일-수익화-성과를-높이는-방법.md",
-      "word_count": 0,
+      "word_count": 4751,
       "date": null,
       "duration_seconds": 1669,
-      "language": "ko",
+      "language": "en",
       "youtube_id": "oAqyMKHOAfc",
       "youtube_url": "https://www.youtube.com/watch?v=oAqyMKHOAfc",
       "description": "폭발적인 기술의 발전과 더 치열해지는 경쟁, 진정한 성장은 어디에 있을까요? 급속도로 변화하는 시장에서 성장의 로켓이 되어줄 그로스 스택을..."
@@ -688,10 +655,10 @@
     {
       "title": "Supercharge Market Conversions Through AI",
       "filename": "videos/supercharge-market-conversions-through-ai.md",
-      "word_count": 0,
+      "word_count": 3521,
       "date": null,
       "duration_seconds": 1190,
-      "language": "ko",
+      "language": "en",
       "youtube_id": "4tG3mXBo_Vw",
       "youtube_url": "https://www.youtube.com/watch?v=4tG3mXBo_Vw",
       "description": "폭발적인 기술의 발전과 더 치열해지는 경쟁, 진정한 성장은 어디에 있을까요? 급속도로 변화하는 시장에서 성장의 로켓이 되어줄 그로스 스택을..."
@@ -699,10 +666,10 @@
     {
       "title": "Content is not dead, targeting is",
       "filename": "videos/content-is-not-dead-targeting-is.md",
-      "word_count": 0,
+      "word_count": 3069,
       "date": null,
       "duration_seconds": 1162,
-      "language": "ko",
+      "language": "en",
       "youtube_id": "9B1baHe4D7g",
       "youtube_url": "https://www.youtube.com/watch?v=9B1baHe4D7g",
       "description": "폭발적인 기술의 발전과 더 치열해지는 경쟁, 진정한 성장은 어디에 있을까요? 급속도로 변화하는 시장에서 성장의 로켓이 되어줄 그로스 스택을..."
@@ -710,24 +677,13 @@
     {
       "title": "Automating App Store Optimization with Generative AI",
       "filename": "videos/automating-app-store-optimization-with-generative-ai.md",
-      "word_count": 0,
+      "word_count": 4035,
       "date": null,
       "duration_seconds": 1396,
-      "language": "ko",
+      "language": "en",
       "youtube_id": "NqT4nM3bQGw",
       "youtube_url": "https://www.youtube.com/watch?v=NqT4nM3bQGw",
       "description": "폭발적인 기술의 발전과 더 치열해지는 경쟁, 진정한 성장은 어디에 있을까요? 급속도로 변화하는 시장에서 성장의 로켓이 되어줄 그로스 스택을..."
-    },
-    {
-      "title": "[게임 마케팅 세미나] 게임듀오, 그라비티, 스프링컴즈, 후야호 - 패널토크",
-      "filename": "videos/게임-마케팅-세미나-게임듀오-그라비티-스프링컴즈-후야호-패널토크.md",
-      "word_count": 6447,
-      "date": null,
-      "duration_seconds": 3419,
-      "language": "ko",
-      "youtube_id": "IHljlrWwKBQ",
-      "youtube_url": "https://www.youtube.com/watch?v=IHljlrWwKBQ",
-      "description": "Airbridge, Appier, AppTweak, Digital Hearts, Playio가 2024년 3월 28일에 공동 개최한 \"Game On! Play On! Global On! : 글로벌 진출 트렌드 & 노하우\"의 녹화 영상을 공개합..."
     },
     {
       "title": "[게임 마케팅 세미나] 크래프톤 - 데이터에 기반한 글로벌 게임 마케팅 경험 나눔",
@@ -820,10 +776,10 @@
     {
       "title": "MMM: Redefining Marketing Performance Tracking in a Privacy-Centric Era",
       "filename": "videos/mmm-redefining-marketing-performance-tracking-in-a-privacy-centric-era.md",
-      "word_count": 0,
+      "word_count": 3935,
       "date": null,
       "duration_seconds": 1611,
-      "language": "ko",
+      "language": "en",
       "youtube_id": "2eSR5V1ZJAw",
       "youtube_url": "https://www.youtube.com/watch?v=2eSR5V1ZJAw",
       "description": "AB180은 지난 7월 26일 국내 최대 애드테크 & 마테크 컨퍼런스 모던 그로스 스택(MGS 2023)을 개최했습니다."
@@ -840,6 +796,28 @@
       "description": "AB180은 지난 7월 26일 국내 최대 애드테크 & 마테크 컨퍼런스 모던 그로스 스택(MGS 2023)을 개최했습니다."
     },
     {
+      "title": "버거킹도 Amplitude를 쓴다고? 어떻게 쓰는데?",
+      "filename": "videos/버거킹도-amplitude를-쓴다고-어떻게-쓰는데.md",
+      "word_count": 2965,
+      "date": null,
+      "duration_seconds": 1528,
+      "language": "ko",
+      "youtube_id": "XA-UpCedCcQ",
+      "youtube_url": "https://www.youtube.com/watch?v=XA-UpCedCcQ",
+      "description": "폭발적인 기술의 발전과 더 치열해지는 경쟁, 진정한 성장은 어디에 있을까요? 급속도로 변화하는 시장에서 성장의 로켓이 되어줄 그로스 스택을..."
+    },
+    {
+      "title": "The Great Re-Assessment",
+      "filename": "videos/the-great-re-assessment.md",
+      "word_count": 4981,
+      "date": null,
+      "duration_seconds": 1789,
+      "language": "en",
+      "youtube_id": "m_uxVHLbwAg",
+      "youtube_url": "https://www.youtube.com/watch?v=m_uxVHLbwAg",
+      "description": "AB180은 지난 7월 26일 국내 최대 애드테크 & 마테크 컨퍼런스 모던 그로스 스택(MGS 2023)을 개최했습니다."
+    },
+    {
       "title": "[ABConnect] AI 시대, 다시 ‘그로스 해킹’을 묻다",
       "filename": "videos/abconnect-ai-시대-다시-그로스-해킹을-묻다.md",
       "word_count": 7563,
@@ -849,6 +827,17 @@
       "youtube_id": "obMCmjnsmNc",
       "youtube_url": "https://www.youtube.com/watch?v=obMCmjnsmNc",
       "description": "마케터라면 한때 ‘그로스 해킹’이 주던 설렘을 기억하실 거예요. 하지만 모두가 같은 방식을 쓰게 되면서 그 힘은 점차 희미해졌죠. 이제 AI가..."
+    },
+    {
+      "title": "[MGS25] 광고 말고, 성장을 사고 싶다 | Airbridge, 이스트에이드, 스테이션3",
+      "filename": "videos/mgs25-광고-말고-성장을-사고-싶다-airbridge-이스트에이드-스테이션3.md",
+      "word_count": 3583,
+      "date": null,
+      "duration_seconds": 1528,
+      "language": "ko",
+      "youtube_id": "xRrsHJhXVrg",
+      "youtube_url": "https://www.youtube.com/watch?v=xRrsHJhXVrg",
+      "description": "2025년 마케팅 시장의 변화. 여러분은 잘 대응하고 있나요? 데이터로 리드하고, AI로 승리하는 시대, 미래가 우리 앞으로 다가오고 있어요. 경계를..."
     },
     {
       "title": "[MGS25] [Google X Airbridge] 구글과 준비하는 iOS 마케팅의 현재와 미래 | Google, Airbridge",
@@ -864,10 +853,10 @@
     {
       "title": "[MGS25] AI로 다시 그리는 그로스 스택:  인사이트에서 실행까지 | Amplitude",
       "filename": "videos/mgs25-ai로-다시-그리는-그로스-스택-인사이트에서-실행까지-amplitude.md",
-      "word_count": 0,
+      "word_count": 2724,
       "date": null,
       "duration_seconds": 1494,
-      "language": "ko",
+      "language": "en",
       "youtube_id": "bqB19VPD_CU",
       "youtube_url": "https://www.youtube.com/watch?v=bqB19VPD_CU",
       "description": "2025년 마케팅 시장의 변화. 여러분은 잘 대응하고 있나요? 데이터로 리드하고, AI로 승리하는 시대, 미래가 우리 앞으로 다가오고 있어요. 경계를..."
@@ -875,10 +864,10 @@
     {
       "title": "(한국어 자막) AI 기반 CRM 자동화 시대, 창의성이 여전히 중요한 이유",
       "filename": "videos/한국어-자막-ai-기반-crm-자동화-시대-창의성이-여전히-중요한-이유.md",
-      "word_count": 0,
+      "word_count": 6747,
       "date": null,
       "duration_seconds": 2348,
-      "language": "ko",
+      "language": "en",
       "youtube_id": "xC57KrNzhm0",
       "youtube_url": "https://www.youtube.com/watch?v=xC57KrNzhm0",
       "description": "최신 CRM 방향성과 실무적 해답에 대한 인사이트를 얻어보세요."
@@ -906,6 +895,17 @@
       "description": "폭발적인 기술의 발전과 더 치열해지는 경쟁, 진정한 성장은 어디에 있을까요? 급속도로 변화하는 시장에서 성장의 로켓이 되어줄 그로스 스택을..."
     },
     {
+      "title": "전체론적 마케팅의 부상: Everything Matters / 운영을 넘어 통합 마케팅 전략으로 고객 성공을 이끌다",
+      "filename": "videos/전체론적-마케팅의-부상-everything-matters-운영을-넘어-통합-마케팅-전략으로-고객-성공을-이끌다.md",
+      "word_count": 2947,
+      "date": null,
+      "duration_seconds": 1280,
+      "language": "ko",
+      "youtube_id": "TDhOkF091cQ",
+      "youtube_url": "https://www.youtube.com/watch?v=TDhOkF091cQ",
+      "description": "폭발적인 기술의 발전과 더 치열해지는 경쟁, 진정한 성장은 어디에 있을까요? 급속도로 변화하는 시장에서 성장의 로켓이 되어줄 그로스 스택을..."
+    },
+    {
       "title": "성공하는 사업의 필수! 데이터 분석이 필요한 이유 (게임 사례를 중심으로)",
       "filename": "videos/성공하는-사업의-필수-데이터-분석이-필요한-이유-게임-사례를-중심으로.md",
       "word_count": 3719,
@@ -926,6 +926,17 @@
       "youtube_id": "gS1xbfolXWk",
       "youtube_url": "https://www.youtube.com/watch?v=gS1xbfolXWk",
       "description": "에어브릿지와 버즈빌이 2024년 5월 21일에 공동 개최한 \"게임 마케터를 위한 유저 행동 활성화 전략\" 웨비나 녹화 영상을 공개합니다."
+    },
+    {
+      "title": "[게임 마케팅 세미나] 게임듀오, 그라비티, 스프링컴즈, 후야호 - 패널토크",
+      "filename": "videos/게임-마케팅-세미나-게임듀오-그라비티-스프링컴즈-후야호-패널토크.md",
+      "word_count": 6447,
+      "date": null,
+      "duration_seconds": 3419,
+      "language": "ko",
+      "youtube_id": "IHljlrWwKBQ",
+      "youtube_url": "https://www.youtube.com/watch?v=IHljlrWwKBQ",
+      "description": "Airbridge, Appier, AppTweak, Digital Hearts, Playio가 2024년 3월 28일에 공동 개최한 \"Game On! Play On! Global On! : 글로벌 진출 트렌드 & 노하우\"의 녹화 영상을 공개합..."
     },
     {
       "title": "프로덕트 분석과 실험을 통한 비즈니스 성장 가속화 전략",
@@ -952,24 +963,13 @@
     {
       "title": "How the World's Leading Companies are Driving Growth Through Iterative Product Development",
       "filename": "videos/how-the-worlds-leading-companies-are-driving-growth-through-iterative-product-de.md",
-      "word_count": 0,
+      "word_count": 4709,
       "date": null,
       "duration_seconds": 1855,
-      "language": "ko",
+      "language": "en",
       "youtube_id": "56zdfIxTkUs",
       "youtube_url": "https://www.youtube.com/watch?v=56zdfIxTkUs",
       "description": "AB180은 2023년 7월 26일 국내 최대 애드테크 & 마테크 컨퍼런스 모던 그로스 스택(MGS 2023)을 개최했습니다."
-    },
-    {
-      "title": "The Great Re-Assessment",
-      "filename": "videos/the-great-re-assessment.md",
-      "word_count": 0,
-      "date": null,
-      "duration_seconds": 1789,
-      "language": "ko",
-      "youtube_id": "m_uxVHLbwAg",
-      "youtube_url": "https://www.youtube.com/watch?v=m_uxVHLbwAg",
-      "description": "AB180은 지난 7월 26일 국내 최대 애드테크 & 마테크 컨퍼런스 모던 그로스 스택(MGS 2023)을 개최했습니다."
     }
   ]
 }
